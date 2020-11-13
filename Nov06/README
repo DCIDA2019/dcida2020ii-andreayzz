@@ -1,0 +1,4 @@
+Genera una distribución de puntos aleatorios uniformes en un cubo de lado L
+Haz un programa que calcule la funcion de correlacion y verificar que en el cubo generado esta es 0
+Usar el código para calcular la 2PFC del conjunto de datos proporcionado
+¿Cómo harías más eficiente el cálculo?
